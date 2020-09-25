@@ -9,3 +9,9 @@ h2 {
 p {
     font-size: 18px;
 }
+img {
+    height: 100px;
+    width: 145px;
+    border: #38B2AC solid 2px;
+    border-radius: 10%;
+}
